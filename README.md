@@ -1,0 +1,2 @@
+# learn-AI
+useful notes 
