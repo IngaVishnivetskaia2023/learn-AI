@@ -7,3 +7,5 @@ useful notes
 #### [Building with the Claude API](3.md)
 
 #### [Claude API: Prompt evaluation](4.md)
+
+#### [Claude API: Prompt engineering techniques](5.md)
