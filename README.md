@@ -9,3 +9,5 @@ useful notes
 #### [Claude API: Prompt evaluation](4.md)
 
 #### [Claude API: Prompt engineering techniques](5.md)
+
+#### [Clause API: Tool Use](6.md)
