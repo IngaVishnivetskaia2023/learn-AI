@@ -11,3 +11,5 @@ useful notes
 #### [Claude API: Prompt engineering techniques](5.md)
 
 #### [Clause API: Tool Use](6.md)
+
+#### [Clause API: Retrieval Augmented Generation (RAG)](7.md)
