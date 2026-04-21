@@ -13,3 +13,5 @@ useful notes
 #### [Clause API: Tool Use](6.md)
 
 #### [Clause API: Retrieval Augmented Generation (RAG)](7.md)
+
+#### [Clause API: Prompt caching](8.md)
