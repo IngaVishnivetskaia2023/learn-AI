@@ -15,3 +15,5 @@ useful notes
 #### [Clause API: Retrieval Augmented Generation (RAG)](7.md)
 
 #### [Clause API: Prompt caching](8.md)
+
+#### [MCP Servers](9.md)
