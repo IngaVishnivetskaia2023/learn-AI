@@ -17,3 +17,5 @@ useful notes
 #### [Clause API: Prompt caching](8.md)
 
 #### [MCP Servers](9.md)
+
+#### [AI SDLC Vocabulary](10.md)
