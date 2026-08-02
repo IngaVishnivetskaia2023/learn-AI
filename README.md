@@ -18,4 +18,4 @@ useful notes
 
 #### [MCP Servers](9.md)
 
-#### [AI SDLC Vocabulary](10.md)
+#### [AI SDLC Vocabulary and SME part](10.md)
