@@ -10,14 +10,16 @@ useful notes
 
 #### [Claude API: Prompt engineering techniques](5.md)
 
-#### [Clause API: Tool Use](6.md)
+#### [Claude API: Tool Use](6.md)
 
-#### [Clause API: Retrieval Augmented Generation (RAG)](7.md)
+#### [Claude API: Retrieval Augmented Generation (RAG)](7.md)
 
-#### [Clause API: Prompt caching](8.md)
+#### [Claude API: Prompt caching](8.md)
 
 #### [MCP Servers](9.md)
 
 #### [AI SDLC Vocabulary and SME part](10.md)
 
 #### [AI SDLC Vocabulary and BA part](11.md)
+
+#### [Claude Certification](12.md)
